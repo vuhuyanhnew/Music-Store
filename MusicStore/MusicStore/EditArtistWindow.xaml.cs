@@ -88,7 +88,6 @@ namespace MusicStore
         {
             EditAlbumWIndow editAlbumWindow = new EditAlbumWIndow();
             this.Hide();
-            editAlbumWindow.Closed += (s, args) => this.Show();
             editAlbumWindow.Show();
         }
         private void BtnExit_Click(object sender, RoutedEventArgs e)

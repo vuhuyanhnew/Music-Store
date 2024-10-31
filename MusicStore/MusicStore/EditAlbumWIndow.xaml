@@ -49,7 +49,7 @@
                 <Button Grid.Column="1" Content="Tìm kiếm" Width="80" Height="30"/>
             </Grid>
             <DataGrid Grid.Row="1" x:Name="dgMain" Margin="10" AutoGenerateColumns="False" 
-       IsReadOnly="True" SelectionMode="Single">
+       IsReadOnly="False" SelectionMode="Single">
                 <DataGrid.Columns>
                     <DataGridTextColumn Header="ID" Binding="{Binding AlbumId}"/>
                     <DataGridTextColumn Header="Tên Album" Binding="{Binding Title}"/>

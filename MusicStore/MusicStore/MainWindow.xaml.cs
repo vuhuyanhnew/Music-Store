@@ -26,21 +26,31 @@ namespace MusicStore
             btnAlbums.Click += BtnAlbums_Click;
             btnArtists.Click += btnArtists_Click;
             btnExit.Click += BtnExit_Click;
+            btnUsers.Click += BtnUsers_Click;
+        }
+
+        private void BtnUsers_Click(object sender, RoutedEventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         private void BtnAlbums_Click(object sender, RoutedEventArgs e)
         {
             EditAlbumWIndow editAlbumWindow = new EditAlbumWIndow();
             this.Hide();  
-            editAlbumWindow.Closed += (s, args) => this.Show();  
             editAlbumWindow.Show();
         }
         private void btnArtists_Click(object sender, RoutedEventArgs e)
         {
             EditArtistWindow editArtistWindow = new EditArtistWindow();
             this.Hide();
-            editArtistWindow.Closed += (s, args) => this.Show();
             editArtistWindow.Show();
+        }
+        private void btnUser_Click(object sender, RoutedEventArgs e)
+        {
+            EditUserWindow editUserWindow = new EditUserWindow();
+            this.Hide();
+            editUserWindow.Show();
         }
         private void BtnExit_Click(object sender, RoutedEventArgs e)
         {

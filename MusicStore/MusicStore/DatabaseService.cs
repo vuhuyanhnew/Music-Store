@@ -6,7 +6,8 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccessLayer.Models; 
+using DataAccessLayer.Models;
+using MusicStore;
 
 
 namespace MusicStore
@@ -18,10 +19,10 @@ namespace MusicStore
 
         public DatabaseService()
         {
-            //_configuration = new ConfigurationBuilder()
-            //    .SetBasePath(Directory.GetCurrentDirectory())
-            //    .AddJsonFile("appsettings.json")
-            //    .Build();
+            _configuration = new ConfigurationBuilder()
+        .SetBasePath(Directory.GetCurrentDirectory())
+        .AddJsonFile("appsettings.json")
+        .Build();
 
             var optionsBuilder = new DbContextOptionsBuilder<MusicStoreContext>();
             optionsBuilder.UseSqlServer(_configuration.GetConnectionString("DefaultConnection"));

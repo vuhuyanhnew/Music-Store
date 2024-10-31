@@ -1,4 +1,5 @@
 ﻿using DataAccessLayer.Models;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -34,9 +35,11 @@ namespace MusicStore
 
         private void LoadAlbums()
         {
-            var albums = _databaseService.GetContext().Albums
+            var context = _databaseService.GetContext();
+            var albums = context.Albums
                 .Include(a => a.Artist)
                 .Include(a => a.Genre)
+                .AsNoTracking()  
                 .ToList();
             dgMain.ItemsSource = albums;
         }
@@ -45,7 +48,7 @@ namespace MusicStore
             var album = (sender as Button)?.DataContext as Album;
             if (album != null)
             {
-                MessageBox.Show($"Sửa album: {album.Title}");
+                UpdateAlbum(album);
             }
         }
 
@@ -77,13 +80,39 @@ namespace MusicStore
         {
             EditArtistWindow editArtistWindow = new EditArtistWindow();
             this.Hide();
-            editArtistWindow.Closed += (s, args) => this.Show();
+            //editArtistWindow.Closed += (s, args) => this.Show();
             editArtistWindow.Show();
         }
         private void BtnExit_Click(object sender, RoutedEventArgs e)
         {
             Application.Current.Shutdown();
 
+        }
+        private void UpdateAlbum(Album album)
+        {
+            try
+            {
+                using (var context = _databaseService.GetContext())
+                {
+                    var albumToUpdate = context.Albums.Find(album.AlbumId);
+                    if (albumToUpdate != null)
+                    {
+                        albumToUpdate.Title = album.Title;
+                        albumToUpdate.Price = album.Price;
+                        context.SaveChanges();  
+
+                        MessageBox.Show("Cập nhật thành công!", "Thông báo",
+                            MessageBoxButton.OK, MessageBoxImage.Information);
+
+                        LoadAlbums(); 
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Lỗi khi cập nhật: {ex.Message}", "Lỗi",
+                    MessageBoxButton.OK, MessageBoxImage.Error);
+            }
         }
     }
 }
