@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicStore", "MusicStore\MusicStore.csproj", "{BD3815ED-4174-44FD-9AD4-6E3616ED465F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{49AB693E-C21C-4704-933F-6C957A15708B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3815ED-4174-44FD-9AD4-6E3616ED465F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3815ED-4174-44FD-9AD4-6E3616ED465F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3815ED-4174-44FD-9AD4-6E3616ED465F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3815ED-4174-44FD-9AD4-6E3616ED465F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49AB693E-C21C-4704-933F-6C957A15708B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AB693E-C21C-4704-933F-6C957A15708B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AB693E-C21C-4704-933F-6C957A15708B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AB693E-C21C-4704-933F-6C957A15708B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53DC0F8B-9768-479C-B27E-32E39629F208}
+	EndGlobalSection
+EndGlobal

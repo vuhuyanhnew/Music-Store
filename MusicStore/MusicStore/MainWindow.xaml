@@ -1,0 +1,62 @@
+﻿<Window x:Class="MusicStore.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MusicStore"
+        mc:Ignorable="d"
+        Title="Music Store Management" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Left sidebar -->
+        <StackPanel Grid.Column="0" Background="#1DB954">
+
+            <Button x:Name="btnAlbums" Content="QUẢN LÝ ALBUMS" Foreground="White" Background="Transparent" 
+         Height="40"/>
+            <Button x:Name="btnSongs" Content="QUẢN LÝ BÀI HÁT" Foreground="White" Background="Transparent" 
+         Height="40"/>
+            <Button x:Name="btnArtists" Content="NGHỆ SĨ" Foreground="White" Background="Transparent" 
+         Height="40"/>
+            <Button x:Name="btnUsers" Content="NGƯỜI DÙNG" Foreground="White" Background="Transparent" 
+         Height="40"/>
+            <Button x:Name="btnOrders" Content="ĐƠN HÀNG" Foreground="White" Background="Transparent" 
+         Height="40"/>
+            <Button x:Name="btnCustomAlbums" Content="ALBUM TÙY CHỈNH" Foreground="White" Background="Transparent" 
+         Height="40"/>
+            <Button x:Name="btnExit" Content="THOÁT" Foreground="White" Background="Transparent" 
+        Height="40"/>
+
+        </StackPanel>
+
+        <Grid Grid.Column="1">
+            <Grid x:Name="DefaultView" Visibility="Visible">
+               
+            </Grid>
+
+            <Grid x:Name="AlbumManagementView" Visibility="Collapsed">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0" Margin="10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox Grid.Column="0" x:Name="txtSearch" Margin="0,0,10,0" 
+                            Height="30" VerticalContentAlignment="Center"
+                            Text="Tìm kiếm..."/>
+                    <Button Grid.Column="1" Content="Tìm kiếm" Width="80" Height="30"/>
+                </Grid>
+
+               
+            </Grid>
+
+        </Grid>
+    </Grid>
+</Window>

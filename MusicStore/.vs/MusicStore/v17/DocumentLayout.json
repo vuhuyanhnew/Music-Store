@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\MusicStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\editartistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\editartistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\editalbumwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\editalbumwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\editalbumwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\editalbumwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\editartistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\editartistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\source\\repos\\musicstore\\dataaccesslayer\\models\\musicstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\musicstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\source\\repos\\musicstore\\dataaccesslayer\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\source\\repos\\musicstore\\dataaccesslayer\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\source\\repos\\musicstore\\dataaccesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|c:\\users\\admin\\source\\repos\\musicstore\\musicstore\\musicstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD3815ED-4174-44FD-9AD4-6E3616ED465F}|MusicStore\\MusicStore.csproj|solutionrelative:musicstore\\musicstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\admin\\source\\repos\\musicstore\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49AB693E-C21C-4704-933F-6C957A15708B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditAlbumWIndow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\EditAlbumWIndow.xaml",
+              "RelativeDocumentMoniker": "MusicStore\\EditAlbumWIndow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\EditAlbumWIndow.xaml",
+              "RelativeToolTip": "MusicStore\\EditAlbumWIndow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T01:46:07.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditAlbumWIndow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\EditAlbumWIndow.xaml.cs",
+              "RelativeDocumentMoniker": "MusicStore\\EditAlbumWIndow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\EditAlbumWIndow.xaml.cs",
+              "RelativeToolTip": "MusicStore\\EditAlbumWIndow.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAUwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:52:04.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditArtistWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\EditArtistWindow.xaml",
+              "RelativeDocumentMoniker": "MusicStore\\EditArtistWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\EditArtistWindow.xaml",
+              "RelativeToolTip": "MusicStore\\EditArtistWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-31T02:59:57.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditArtistWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\EditArtistWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MusicStore\\EditArtistWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\EditArtistWindow.xaml.cs",
+              "RelativeToolTip": "MusicStore\\EditArtistWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:04:35.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MusicStore\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MusicStore\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:53:31.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MusicStore\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\MainWindow.xaml",
+              "RelativeToolTip": "MusicStore\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-29T01:39:36.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "MusicStore\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\DatabaseService.cs",
+              "RelativeToolTip": "MusicStore\\DatabaseService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwBcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T01:35:04.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MusicStore\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\AssemblyInfo.cs",
+              "RelativeToolTip": "MusicStore\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:35:11.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T17:34:13.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MusicStore.csproj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\MusicStore.csproj",
+              "RelativeDocumentMoniker": "MusicStore\\MusicStore.csproj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\MusicStore.csproj",
+              "RelativeToolTip": "MusicStore\\MusicStore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-30T17:35:18.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\Models\\User.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:35:29.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\Models\\Album.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Album.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:39:13.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\Models\\Artist.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:39:16.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusicStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\Models\\MusicStoreContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\MusicStoreContext.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\DataAccessLayer\\Models\\MusicStoreContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\MusicStoreContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:39:20.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\appsettings.json",
+              "RelativeDocumentMoniker": "MusicStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\MusicStore\\MusicStore\\appsettings.json",
+              "RelativeToolTip": "MusicStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T00:38:33.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
